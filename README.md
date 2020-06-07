@@ -1,7 +1,5 @@
 # countstring
-a handler for the stringcount api
-
-Just a console app that handles queries to the stringcount api
+a console app that handles queries to the stringcount api
 
 Type q to quit, or anything else to get API response
 i.e type hello
